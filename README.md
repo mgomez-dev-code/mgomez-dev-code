@@ -26,5 +26,4 @@ I like typed code, tests, and simple UX.
 - Clean, readable README files
 
 ## Contact
-- LinkedIn: *(add link)*
-- Email: *(add contact or keep blank)*
+- LinkedIn: *https://www.linkedin.com/in/mauricio56/*
