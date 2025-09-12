@@ -1,6 +1,7 @@
 # Hey, I'm Mauricio 👋
 
-C#/.NET + ReactJS, Angular & Vue.js developer focused on clean code, tests, and small focused demos that ship.
+C#/.NET + ReactJS, Angular & Vue.js developer focused on clean code, tests, CI that actually runs, and small demos that ship.
+</br>
 I like typed code, CI that actually runs, and simple UX.  
 
 ## Tech
