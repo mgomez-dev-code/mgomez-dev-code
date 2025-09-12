@@ -47,4 +47,5 @@ I like typed code, CI that actually runs, and simple UX.
 
 ## Contact
 
-- **LinkedIn:** https://www.linkedin.com/in/mauricio56/
+- 💼 LinkedIn: [mauricio56](https://www.linkedin.com/in/mauricio56/)
+
