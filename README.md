@@ -1,6 +1,6 @@
 # Hey, I'm Mauricio 👋
 
-🎯 **Full-stack .NET Developer** specialized in **C#, ASP.NET, REST APIs** and modern **React/TypeScript** frontends.  
+🎯 **Full-stack .NET Developer** specialized in **C#, ASP.NET, REST APIs** and modern **React/Angular/TypeScript** frontends.  
 I build **clean, testable, and resilient applications** with strong focus on async patterns, dependency injection, and CI/CD pipelines that actually run.
 
 ---
