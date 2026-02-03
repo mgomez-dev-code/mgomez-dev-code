@@ -22,8 +22,9 @@ I build **clean, testable, and resilient applications** with strong focus on asy
 ## 🧩 Featured Projects
 
 ### 🔹 AsyncAwaitFanOut — .NET 8 concurrency demo
+
 Resilient fan-out orchestration using async/await, `SemaphoreSlim`, and timeout handling.  
-**Repo:** [mgomez-dev-code/async-await-fanout](https://github.com/mgomez-dev-code/async-await-fanout)
+**Repo:** https://github.com/mgomez-dev-code/async-await-fanout
 
 ![.NET](https://img.shields.io/badge/.NET-8-512BD4?logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
@@ -33,8 +34,9 @@ Resilient fan-out orchestration using async/await, `SemaphoreSlim`, and timeout 
 ---
 
 ### 🔹 MinimalTodos — .NET 9 Minimal API
+
 Clean and testable API using Dependency Injection, validation, pagination and xUnit tests.  
-**Repo:** [mgomez-dev-code/minimal-todos](https://github.com/mgomez-dev-code/minimal-todos)
+**Repo:** https://github.com/mgomez-dev-code/minimal-todos
 
 ![.NET](https://img.shields.io/badge/.NET-9-512BD4?logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
@@ -44,8 +46,9 @@ Clean and testable API using Dependency Injection, validation, pagination and xU
 ---
 
 ### 🔹 WordFinder — library + console sample + xUnit
+
 Algorithmic challenge to find top 10 words in a character matrix.  
-**Repo:** [mgomez-dev-code/word-finder](https://github.com/mgomez-dev-code/word-finder)
+**Repo:** https://github.com/mgomez-dev-code/word-finder
 
 ![.NET](https://img.shields.io/badge/.NET-8-512BD4?logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
@@ -54,10 +57,11 @@ Algorithmic challenge to find top 10 words in a character matrix.
 
 ---
 
-### 🔹 React Shopping List — Vite + TS + Tailwind
+### 🔹 React Shopping List — Vite + TypeScript + Tailwind
+
 Simple but solid SPA showing typed state management (Context + Reducer) and persistence.  
-**Live:** [react-shopping-list-mgomez.vercel.app](https://react-shopping-list-mgomez.vercel.app)  
-**Repo:** [mgomez-dev-code/react-shopping-list](https://github.com/mgomez-dev-code/react-shopping-list)
+**Live:** https://react-shopping-list-mgomez.vercel.app  
+**Repo:** https://github.com/mgomez-dev-code/react-shopping-list
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
@@ -66,7 +70,44 @@ Simple but solid SPA showing typed state management (Context + Reducer) and pers
 
 ---
 
+### 🔹 React Data Fetch + useMemo
+
+React SPA demonstrating data fetching, derived state memoization, and render performance awareness.  
+**Live:** https://react-data-fetch-memo.vercel.app  
+**Repo:** https://github.com/mgomez-dev-code/react-data-fetch-memo
+
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-7-646CFF?logo=vite&logoColor=white)
+
+---
+
+### 🔹 React Render Memo Demo
+
+Focused demo showing how `React.memo` and `useCallback` prevent unnecessary re-renders.  
+**Live:** https://react-render-memo-demo.vercel.app  
+**Repo:** https://github.com/mgomez-dev-code/react-render-memo-demo
+
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-7-646CFF?logo=vite&logoColor=white)
+
+---
+
+### 🔹 React Expensive Calculation + useMemo
+
+Performance-focused demo illustrating expensive computations and memoization with `useMemo`.  
+**Live:** https://react-expensive-calculation-memo.vercel.app  
+**Repo:** https://github.com/mgomez-dev-code/react-expensive-calculation-memo
+
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-7-646CFF?logo=vite&logoColor=white)
+
+---
+
 ## 💬 What I enjoy
+
 - Writing clean, composable, and testable code.
 - Exploring new async/concurrency patterns in .NET.
 - Building small full-stack demos that **run from README → CI → Deploy**.
@@ -75,5 +116,6 @@ Simple but solid SPA showing typed state management (Context + Reducer) and pers
 ---
 
 ## 📫 Contact
-- 💼 [LinkedIn — mauricio56](https://www.linkedin.com/in/mauricio56/)
-- 🧑‍💻 [GitHub — mgomez-dev-code](https://github.com/mgomez-dev-code)
+
+- 💼 LinkedIn: https://www.linkedin.com/in/mauricio56/
+- 🧑‍💻 GitHub: https://github.com/mgomez-dev-code
