@@ -67,6 +67,7 @@ Simple but solid SPA showing typed state management (Context + Reducer) and pers
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-06B6D4?logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-7-646CFF?logo=vite&logoColor=white)
+![Vercel Deploy](https://deploy-badge.vercel.app/vercel/react-shopping-list-mgomez)
 
 ---
 
@@ -79,6 +80,7 @@ React SPA demonstrating data fetching, derived state memoization, and render per
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-7-646CFF?logo=vite&logoColor=white)
+![Vercel Deploy](https://deploy-badge.vercel.app/vercel/react-data-fetch-memo)
 
 ---
 
@@ -91,6 +93,7 @@ Focused demo showing how `React.memo` and `useCallback` prevent unnecessary re-r
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-7-646CFF?logo=vite&logoColor=white)
+![Vercel Deploy](https://deploy-badge.vercel.app/vercel/react-render-memo-demo)
 
 ---
 
@@ -103,6 +106,7 @@ Performance-focused demo illustrating expensive computations and memoization wit
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-7-646CFF?logo=vite&logoColor=white)
+![Vercel Deploy](https://deploy-badge.vercel.app/vercel/react-expensive-calculation-memo)
 
 ---
 
